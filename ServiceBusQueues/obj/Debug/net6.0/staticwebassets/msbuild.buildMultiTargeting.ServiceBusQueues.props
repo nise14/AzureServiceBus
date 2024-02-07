@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ServiceBusQueues.props" />
+</Project>

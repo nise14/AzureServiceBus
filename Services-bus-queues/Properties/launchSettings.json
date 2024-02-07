@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Services_bus_queues": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7262",
+      "launchBrowser": false
+    }
+  }
+}

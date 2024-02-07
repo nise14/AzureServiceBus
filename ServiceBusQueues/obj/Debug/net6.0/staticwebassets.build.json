@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ma41xXGpdltkyvv2pt619KYiARQRnq667vhRUADCmRg=",
+  "Source": "ServiceBusQueues",
+  "BasePath": "_content/ServiceBusQueues",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
